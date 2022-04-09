@@ -30,7 +30,7 @@
     "chart.js": "^2.7.3",
     "classnames": "^2.2.6",
     "history": "^4.7.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-sass": "^4.11.0",
     "prop-types": "^15.7.1",
     "react": "^16.8.6",
